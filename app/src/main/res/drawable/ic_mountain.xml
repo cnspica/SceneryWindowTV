@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- 山峰图标 -->
+    <path
+        android:fillColor="#B3FFFFFF"
+        android:pathData="M2,20L9,6L16,20Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M10,20L16,8L22,20Z" />
+</vector>

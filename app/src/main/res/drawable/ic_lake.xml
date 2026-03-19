@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- 湖泊图标 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M4,10C4,10 7,6 12,6C17,6 20,10 20,10" />
+    <path
+        android:fillColor="#B3FFFFFF"
+        android:pathData="M3,14L21,14"
+        android:strokeWidth="1.5"
+        android:strokeColor="#B3FFFFFF" />
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M5,17L19,17"
+        android:strokeWidth="1"
+        android:strokeColor="#80FFFFFF" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M6,8L12,3L18,8L18,12L6,12Z" />
+</vector>

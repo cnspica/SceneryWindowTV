@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- 波浪图标 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M2,12C2,12 5,8 8,10C11,12 13,8 16,10C19,12 22,8 22,8L22,20L2,20Z" />
+    <path
+        android:fillColor="#B3FFFFFF"
+        android:pathData="M2,15C2,15 5,11 8,13C11,15 13,11 16,13C19,15 22,11 22,11L22,20L2,20Z" />
+</vector>
